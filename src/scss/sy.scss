@@ -1,0 +1,649 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: #f5f5f5;
+}
+.header {
+  height: 50px;
+  background: url(https://p1.lefile.cn/product/adminweb/2018/12/13/2d4534f6-29f3-4a05-8e68-97d9904c7bd2.png)
+    no-repeat left white;
+  background-size: 164px 50px;
+}
+.header .headc {
+  width: 1200px;
+  height: 50px;
+  margin: auto;
+  background-color: white;
+}
+
+.headc .head-r {
+  width: 200px;
+  height: 49px;
+  float: right;
+  // background-color: orchid;
+}
+.headc .head-r a {
+  line-height: 49px;
+  font-size: 14px;
+  text-decoration: none;
+  color: #000;
+  margin-left: 10px;
+}
+.headc .head-r img {
+  width: 23px;
+  height: 23px;
+  vertical-align: middle;
+  margin-left: 20px;
+}
+.zm {
+  height: 1109px;
+  background: url(https://p3.lefile.cn/fes/cms/2020/12/23/hl36ez6bk11c5ozzlhxy9d9o1avr0z233719.jpg);
+}
+.tx {
+  height: 501px;
+  background: url(https://p1.lefile.cn/fes/cms/2020/12/30/xkxml7j0re8f51jry3ft8e9go5rbpv355124.jpg);
+}
+.xgzx {
+  height: 406px;
+  background: url(https://p2.lefile.cn/fes/cms/2020/12/30/i756iezx918krhb07iuqydb3iggaaz638016.jpg);
+  padding-left: 513px;
+  padding-top: 50px;
+}
+.xgzx a {
+  display: block;
+  width: 279px;
+  height: 342px;
+  float: left;
+  margin-right: 27px;
+}
+.bq {
+  height: 461px;
+  background: url(https://p2.lefile.cn/fes/cms/2020/12/30/885snelg6tt7ei90af9jqv5hhii8p2963294.jpg);
+  padding-left: 513px;
+  // padding-top: 50px;
+}
+.bq a {
+  display: block;
+  width: 279px;
+  height: 342px;
+  float: left;
+  margin-right: 27px;
+}
+.xp {
+  height: 199px;
+  background: url(https://p4.lefile.cn/fes/cms/2020/12/23/lxqimbvd97j7jflp2xws9l3bphlcjx074279.jpg);
+}
+.xx {
+  height: 500px;
+  background: url(https://p3.lefile.cn/fes/cms/2020/12/25/41s20lofwpga1byk7x0bmcewil9h05769325.png);
+  padding-left: 400px;
+  padding-top: 60px;
+}
+.xx a {
+  display: block;
+  width: 260px;
+  height: 422px;
+  float: left;
+  margin-right: 27px;
+}
+.lm {
+  height: 779px;
+  background: url(https://p3.lefile.cn/fes/cms/2020/12/23/tuc1vv4z2ne32f8es3kpmw02a7kfz8123718.jpg);
+  padding-left: 400px;
+}
+.lm a {
+  display: block;
+  width: 260px;
+  height: 422px;
+  float: left;
+  margin-right: 25px;
+}
+.bk {
+  height: 195px;
+  background: url(https://p2.lefile.cn/fes/cms/2020/12/23/qvicltrttnk6tkjyv7zgxorvcc9vm3339900.jpg);
+}
+.zjz {
+  height: 514px;
+  background: url(https://p1.lefile.cn/fes/cms/2020/12/23/cabq3go3ge7pai7zfntlboj10s8595532615.jpg);
+  padding-left: 400px;
+  padding-top: 60px;
+}
+.zjz a {
+  display: block;
+  width: 260px;
+  height: 422px;
+  float: left;
+  margin-right: 25px;
+}
+.zp {
+  height: 454px;
+  background: url(https://p2.lefile.cn/fes/cms/2020/12/28/8tlviopr9a1f8feozf7s9j4e48ynfl251323.png);
+  padding-left: 400px;
+}
+.zp a {
+  display: block;
+  width: 260px;
+  height: 422px;
+  float: left;
+  margin-right: 25px;
+}
+.tp {
+  height: 452px;
+  background: url(https://p3.lefile.cn/fes/cms/2020/12/23/jbvf29w258x5f04dyuf05v9ukz3bux908542.jpg);
+  padding-left: 400px;
+  padding-top: 20px;
+}
+.tp a {
+  display: block;
+  width: 260px;
+  height: 422px;
+  float: left;
+  margin-right: 25px;
+}
+.sj {
+  height: 776px;
+  background: url(https://p3.lefile.cn/fes/cms/2020/12/23/zqdwq5yjy4d6a8xdvmo3kpl07y8lle606819.jpg);
+  padding-left: 400px;
+  // padding-top: 40px;
+}
+.sj a {
+  display: block;
+  width: 260px;
+  height: 422px;
+  float: left;
+  margin-right: 25px;
+}
+.yoga {
+  height: 230px;
+  background: url(https://p2.lefile.cn/fes/cms/2020/12/23/mx9iq6dq8icnhnnb3xkt5p0gqawo2g235641.jpg);
+}
+.bjb {
+  height: 410px;
+  background-color: #bc1a01;
+}
+// .bjb1{
+//     width: 1200px;
+//     height: 410px;
+//     margin: auto;
+//     background-color: hotpink;
+
+// }
+
+// #nav li{
+//     width: 600px;
+//     height: 45px;
+//     background-color: white;
+//     text-align: center;
+//     list-style: none;
+//     float: left;
+//     line-height: 45px;
+//     font-size: 20px;
+//     margin-bottom: 10px;
+// }
+// #nav li.active{
+//     background: #D8BFD8;
+//     text-align: center;
+//     list-style: none;
+
+// }
+
+// #content{
+//     width: 1080px;
+//     height: 365px;
+//    background-color: orange;
+//     margin-left: 50px;
+//     // position: relative;
+
+// }
+
+// #content li{
+//     width: 257px;
+//     height: 351px;
+
+//     padding: 10px;
+//     // display: none;
+//     top: 40px;
+// }
+// #content li div  {
+//     display: block;
+//     float: left;
+//     width: 257px;
+//     height: 351px;
+//     background-color: skyblue;
+//     margin-right: 10px;
+//     text-align: center  ;
+
+// }
+
+.bjb2 {
+  width: 1200px;
+  height: 410px;
+  margin: auto;
+}
+ul {
+  list-style: none;
+  overflow: hidden;
+}
+#nav {
+  width: 1200px;
+  height: 40px;
+  text-align: center;
+  line-height: 40px;
+  background: #c5c5c5;
+}
+#nav li {
+  width: 600px;
+  height: 40px;
+  float: left;
+  background-color: white;
+}
+#nav li.active {
+  background: #d8bfd8;
+}
+#content {
+  width: 1080px;
+  height: 365px;
+  /* position: relative; */
+  margin-left: 45px;
+}
+#content li {
+  width: 1080px;
+  height: 365px;
+  /* position: absolute; */
+  padding: 10px;
+  display: none;
+}
+#content li div {
+  width: 257px;
+  height: 351px;
+  float: left;
+  margin-right: 10px;
+  text-align: center;
+  background-color: white;
+}
+#content li div:nth-of-type(4) {
+  margin-right: 0px;
+}
+#content li div img {
+  width: 185px;
+  height: 185px;
+}
+#content li div h4 {
+  font-size: 14px;
+  margin-bottom: 15px;
+  margin-top: 5px;
+}
+#content li div p {
+  font-size: 12px;
+  color: #757575;
+  line-height: 20px;
+}
+#content li div h6 {
+  color: red;
+  float: left;
+  margin-top: 30px;
+  margin-left: 10px;
+}
+#content li div a {
+  display: inline-block;
+  width: 69px;
+  height: 25px;
+  background-color: #ee2c2c;
+  margin-top: 25px;
+  margin-left: 60px;
+  color: white;
+  text-decoration: none;
+}
+.zzq {
+  height: 230px;
+  background: url(https://p2.lefile.cn/fes/cms/2020/12/23/uhmkz6jfecyrgnxdp540hmap1m37zw109874.jpg);
+}
+.zjx {
+  height: 410px;
+  background-color: #bc1a01;
+}
+.zjx2 {
+  width: 1200px;
+  height: 410px;
+  margin: auto;
+}
+ul {
+  list-style: none;
+  overflow: hidden;
+}
+#navid {
+  width: 1200px;
+  height: 40px;
+  text-align: center;
+  line-height: 40px;
+  background: #c5c5c5;
+}
+#navid li {
+  width: 400px;
+  height: 40px;
+  float: left;
+  background-color: white;
+}
+
+#navid .active {
+  background: #d8bfd8;
+  width: 400px;
+  height: 40px;
+}
+
+#content1 {
+  width: 1080px;
+  height: 365px;
+  /* position: relative; */
+  margin-left: 45px;
+}
+#content1 li {
+  width: 1080px;
+  height: 365px;
+  /* position: absolute; */
+  padding: 10px;
+  display: none;
+}
+#content1 li div {
+  width: 257px;
+  height: 351px;
+  float: left;
+  margin-right: 10px;
+  text-align: center;
+  background-color: white;
+}
+#content1 li div:nth-of-type(4) {
+  margin-right: 0px;
+}
+#content1 li div img {
+  width: 185px;
+  height: 185px;
+}
+#content1 li div h4 {
+  font-size: 14px;
+  margin-bottom: 15px;
+  margin-top: 5px;
+}
+#content1 li div p {
+  font-size: 12px;
+  color: #757575;
+  line-height: 20px;
+}
+#content1 li div h6 {
+  color: red;
+  float: left;
+  margin-top: 30px;
+  margin-left: 10px;
+}
+#content1 li div a {
+  display: inline-block;
+  width: 69px;
+  height: 25px;
+  background-color: #ee2c2c;
+  margin-top: 25px;
+  margin-left: 60px;
+  color: white;
+  text-decoration: none;
+}
+.tsj {
+  height: 230px;
+  background: url(https://p4.lefile.cn/fes/cms/2020/12/23/1qz6t9dk72nvg1mzouhk7t60p2f565713102.jpg);
+}
+#navid2 {
+  width: 1200px;
+  height: 40px;
+  text-align: center;
+  line-height: 40px;
+  background: #c5c5c5;
+}
+#navid2 li {
+  width: 400px;
+  height: 40px;
+  float: left;
+  background-color: white;
+}
+
+#navid2 .active {
+  background: #d8bfd8;
+  width: 400px;
+  height: 40px;
+}
+
+#content2 {
+  width: 1080px;
+  height: 365px;
+  /* position: relative; */
+  margin-left: 45px;
+}
+#content2 li {
+  width: 1080px;
+  height: 365px;
+  /* position: absolute; */
+  padding: 10px;
+  display: none;
+}
+#content2 li div {
+  width: 257px;
+  height: 351px;
+  float: left;
+  margin-right: 10px;
+  text-align: center;
+  background-color: white;
+}
+#content2 li div:nth-of-type(4) {
+  margin-right: 0px;
+}
+#content2 li div img {
+  width: 185px;
+  height: 185px;
+}
+#content2 li div h4 {
+  font-size: 14px;
+  margin-bottom: 15px;
+  margin-top: 5px;
+}
+#content2 li div p {
+  font-size: 12px;
+  color: #757575;
+  line-height: 20px;
+}
+#content2 li div h6 {
+  color: red;
+  float: left;
+  margin-top: 30px;
+  margin-left: 10px;
+}
+#content2 li div a {
+  display: inline-block;
+  width: 69px;
+  height: 25px;
+  background-color: #ee2c2c;
+  margin-top: 25px;
+  margin-left: 60px;
+  color: white;
+  text-decoration: none;
+}
+.thp {
+  height: 230px;
+  background: url(https://p2.lefile.cn/fes/cms/2020/12/23/dgx8yhqn8qf927wbdcoeu0tdzz7q00264147.jpg);
+}
+#nav2 {
+  width: 1200px;
+  height: 40px;
+  text-align: center;
+  line-height: 40px;
+  background: #c5c5c5;
+}
+#nav2 li {
+  width: 600px;
+  height: 40px;
+  float: left;
+  background-color: white;
+}
+
+#nav2 .active {
+  background: #d8bfd8;
+  width: 6 00px;
+  height: 40px;
+}
+
+#content3 {
+  width: 1080px;
+  height: 365px;
+  /* position: relative; */
+  margin-left: 45px;
+}
+#content3 li {
+  width: 1080px;
+  height: 365px;
+  /* position: absolute; */
+  padding: 10px;
+  display: none;
+}
+#content3 li div {
+  width: 257px;
+  height: 351px;
+  float: left;
+  margin-right: 10px;
+  text-align: center;
+  background-color: white;
+}
+#content3 li div:nth-of-type(4) {
+  margin-right: 0px;
+}
+#content3 li div img {
+  width: 185px;
+  height: 185px;
+}
+#content3 li div h4 {
+  font-size: 14px;
+  margin-bottom: 15px;
+  margin-top: 5px;
+}
+#content3 li div p {
+  font-size: 12px;
+  color: #757575;
+  line-height: 20px;
+}
+#content3 li div h6 {
+  color: red;
+  float: left;
+  margin-top: 30px;
+  margin-left: 10px;
+}
+#content3 li div a {
+  display: inline-block;
+  width: 69px;
+  height: 25px;
+  background-color: #ee2c2c;
+  margin-top: 25px;
+  margin-left: 60px;
+  color: white;
+  text-decoration: none;
+}
+.nd {
+  height: 230px;
+  background: url(https://p4.lefile.cn/fes/cms/2020/12/24/7yx688bo66d4gxgxs1vs0em1hoydu3745967.jpg);
+}
+.pz {
+  height: 199px;
+  background-color: #fff;
+}
+.pz1 {
+  width: 1200px;
+  height: 199px;
+  background-color: #fff;
+  margin: auto;
+}
+.pz1 img {
+  width: 1200px;
+  height: 199px;
+}
+.footer {
+  height: 346px;
+  background-color: #fbfbfb;
+}
+.foot-t {
+  width: 1200px;
+  height: 299px;
+  background-color: #fbfbfb;
+  margin: auto;
+  padding: 70px 0 0px 70px;
+  box-sizing: border-box;
+}
+.foot-t ul li {
+  list-style: none;
+  float: left;
+  margin-right: 65px;
+}
+.foot-t ul li:nth-of-type(7) {
+  border-left: 1px solid black;
+  padding-left: 85px;
+  margin-right: 0;
+}
+.foot-t ul li a {
+  text-decoration: none;
+  display: block;
+  line-height: 24px;
+}
+.foot-t ul li a {
+  font-size: 12px;
+  color: #757575;
+}
+.foot-t ul li a:nth-of-type(1) {
+  font-size: 16px;
+  color: #424242;
+  margin-bottom: 15px;
+  font-weight: 700;
+}
+
+.foot-t ul li div h4 {
+  color: #e1140a;
+  font-size: 20px;
+  margin-top: 15px;
+}
+.foot-t ul li div p {
+  color: #757575;
+  font-size: 12px;
+}
+.foot-t ul li div span {
+  width: 139px;
+  height: 36px;
+  background-color: #fbfbfb;
+  display: block;
+  text-align: center;
+  // margin-top: 15px;
+}
+.footbox {
+  background-color: #272727;
+}
+.foot-b {
+  width: 1200px;
+  height: 47px;
+  background-color: #272727;
+  margin: auto;
+}
+.foot-b .footb-l {
+  width: 386px;
+  height: 47px;
+  float: left;
+  background-color: #272727;
+}
+.foot-b .footb-l p {
+  color: #757575;
+  font-size: 12px;
+  line-height: 47px;
+}
+.foot-b .footb-r {
+  width: 471px;
+  height: 47px;
+  float: right;
+  background-color: #272727;
+}
+.foot-b .footb-r p {
+  font-size: 12px;
+  color: #757575;
+  line-height: 47px;
+}
